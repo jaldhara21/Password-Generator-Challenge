@@ -31,6 +31,7 @@
 </ul>
 
 ## Deployed page
+https://jaldhara21.github.io/Password-Generator-Challenge/
 
 
 ## Screen shot
