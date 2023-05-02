@@ -59,7 +59,7 @@ for (var i = 0; i < numCharacter; i++) {
 // confirm upperCase
 // confirm lowerCase
 // confirm specialCHaracters
-//confirm numeric
+//confirm numbers
 
 
 // Write password to the #password input
